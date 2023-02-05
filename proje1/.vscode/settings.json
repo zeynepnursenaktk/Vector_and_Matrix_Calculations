@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "d3dx9math.h": "c",
+        "stdio.h": "c",
+        "matrixlib.h": "c"
+    }
+}
