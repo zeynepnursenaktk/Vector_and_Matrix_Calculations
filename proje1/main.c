@@ -1,9 +1,7 @@
 /*
  * @file matrixLib.c
  * @description MatrixLib.c dosyasında oluşturulmuş fonksiyonların testinin yapıldığı dosya
- * @assignment Birinci proje ödevi
- * @date 05.12.2022
- * @author Zeynep Nursena KÜTÜK - zeynepnursena.kutuk@stu.fsm.edu.tr
+ * @author Zeynep Nursena KÜTÜK 
  */
 
 #include <stdio.h>
