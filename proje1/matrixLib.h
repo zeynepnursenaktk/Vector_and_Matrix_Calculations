@@ -1,9 +1,7 @@
 /*
  * @file matrixLib.h
  * @description Matrix fonksiyonlarının prototiplerinin bulunduğu dosya
- * @assignment Birinci proje ödevi
- * @date 05.12.2022
- * @author Zeynep Nursena KÜTÜK - zeynepnursena.kutuk@stu.fsm.edu.tr
+ * @author Zeynep Nursena KÜTÜK 
  */
 
 float *returnVector(int size);
